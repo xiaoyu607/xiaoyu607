@@ -25,7 +25,6 @@
 
 ### 联系我
 
-- 📧 邮箱：[yaomingyu607@gmail.com](mailto:yamingyu607@gmail.com)
-- 🔫9o��/�{�&�YZ]^X[�L��H8�";�#�[Yܘ[{�&���X[�]M�
-�J΋���YK��X[�]M�
-�B�
+- 📧 邮箱：[yaomingyu607@gmail.com](mailto:yaomingyu607@gmail.com)
+- 💬 微信：`meiuyao128`
+- ✈️ Telegram：[@tgxiaoyu607](https://t.me/tgxiaoyu607)
