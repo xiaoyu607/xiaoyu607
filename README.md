@@ -24,8 +24,8 @@
 
 ### 项目
 
-- [Whisper Contract](https://github.com/ymy12345769/whisper-contract) — Web3 信息传递智能合约实验
-- [Whisper Viewer](https://github.com/ymy12345769/whisper-viewer) — 配套交互界面，规划中
+- [Whisper Contract](https://github.com/xiaoyu607/whisper-contract) — Web3 信息传递智能合约实验
+- [Whisper Viewer](https://github.com/xiaoyu607/whisper-viewer) — 配套交互界面，规划中
 - 更多一人工作流 Skills 将持续发布
 
 ### 联系我
@@ -58,8 +58,8 @@ I build and share solo workflows, turning mature processes into reusable Codex S
 
 ### Projects
 
-- [Whisper Contract](https://github.com/ymy12345769/whisper-contract) — A Web3 messaging smart-contract experiment
-- [Whisper Viewer](https://github.com/ymy12345769/whisper-viewer) — Planned companion interface
+- [Whisper Contract](https://github.com/xiaoyu607/whisper-contract) — A Web3 messaging smart-contract experiment
+- [Whisper Viewer](https://github.com/xiaoyu607/whisper-viewer) — Planned companion interface
 - More solo-workflow Skills are coming
 
 ### Contact
